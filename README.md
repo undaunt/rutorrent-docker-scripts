@@ -1,4 +1,4 @@
-# ruTorrent Docker Mods
+# ruTorrent Docker Scripts
  
 This set of scripts is designed to work with the [linuxserver/docker-rutorrent](https://github.com/linuxserver/docker-rutorrent) image or, optionally, the [horjulf/docker-rutorrent-autodl](https://github.com/horjulf/docker-rutorrent-autodl) image which is based off the linuxserver image.
  
